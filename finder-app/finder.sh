@@ -1,4 +1,4 @@
-#bash ./finder.sh /tmp/aeld-data linux
+#!/bin/bash
 
 if [ $# -lt 2 ]; then
 	echo "not enough arguments"

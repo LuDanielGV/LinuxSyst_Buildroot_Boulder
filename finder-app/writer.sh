@@ -1,4 +1,4 @@
-# bash ./writer.sh /tmp/aeld-data/temp3.txt linux
+#!/bin/bash
 
 writefile="$1"
 writestr="$2"
